@@ -1,4 +1,4 @@
-#!/usr/local/zenoss/zenoss/bin/python
+#!/usr/bin/env python
 import sys
 import datetime
 from optparse import OptionParser
